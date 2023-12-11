@@ -1,0 +1,94 @@
+.main-container{
+  border: 2px solid rgb(114, 114, 165);
+  margin: 40px 7px 9px 69px;
+  width: 266px;
+  height: 162px;
+  border-radius: 8px;
+  padding: 2px;
+  background-color: rgb(153, 153, 247);
+ 
+}
+
+.hindi-heading{
+  margin: -4px;
+  padding: 0px;
+  font-size: 15px;
+
+}
+.english-heading{
+  color: rgb(33, 34, 34);
+    margin: 1px;
+    font-size: 8px;
+    padding: 1px
+}
+img{
+  width: 40px;
+  height: 45px;
+}
+
+.user-photo{
+  padding: 0px 0px 0px 0px;
+  margin: 0x;
+}
+.satyam-jayat{
+  margin: -67px;
+  padding: 25px 175px 2px 189px;
+}
+
+.hindi-right{
+  margin: -4px;
+  padding: 0px;
+  font-size: 15px;
+
+}
+.english-right{
+  color: rgb(33, 34, 34);
+  margin: -22px;
+  font-size: 8px;
+  padding: 18px 40px 42px 212px;
+}
+.name{
+  margin: -18px;
+  font-size: 7px;
+  padding: 7px 132px 12px 18px;
+
+}
+.vishal{
+  font-size: 8px;
+}
+
+
+
+
+.pancard-detail{
+  padding: 18px 10px 27px 177px;
+  margin: -94px;
+  font-size: 9px;
+}
+.pancard-detail-english{
+  padding: 19px 16px 3px 13px;
+  margin: 51px;
+  font-size: 9px;
+}
+.pancard-number{
+  padding: 0px 31px 37px 142px;
+  margin: -47px;
+  font-size: 9px;
+}
+.QR-code{
+  padding: 3px 80px 6px 290px;
+  margin: -100px;
+}
+.QRphoto{
+      width: 72px;
+    height: 83px;
+}
+.QR-no{
+  font-size: 9px;
+    margin: 34px;
+    padding: 1px 3px 1px 0px;
+}
+.sign{
+  margin: 105px;
+  font-size: 8px;
+}
